@@ -5,4 +5,4 @@ app = FastAPI()
 
 @app.get("/")
 def get_current_time():
-    return {"hora_actual": time.ctime()}
+    return {"hora_actual v2": time.ctime()}
