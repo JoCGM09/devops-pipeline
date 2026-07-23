@@ -1,6 +1,6 @@
 image:
   repository: devops-pipeline-time-printer
-  tag: latest
+  tag: b19a404
   pullPolicy: IfNotPresent
 service:
   type: ClusterIP
